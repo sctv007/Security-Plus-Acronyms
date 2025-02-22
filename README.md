@@ -14,6 +14,7 @@ This repository contains a list of key acronyms for the **CompTIA Security+ SY0-
 | RTO     | Recovery Time Objective                        | Program Management      |
 | GDPR    | General Data Protection Regulation             | Compliance              |
 | SQLi    | SQL Injection                                  | Threats                 |
+| IDS     | Intrusion Detection System                     | Operations              |
 
 ## How to Use This Repository
 - **Study Tool**: Use this list to review acronyms for the Security+ exam.
