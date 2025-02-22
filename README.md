@@ -17,6 +17,18 @@ This repository contains a list of key acronyms for the **CompTIA Security+ SY0-
 | IDS     | Intrusion Detection System                     | Operations              |
 | IPS     | Intrusion Prevention System                    | Operations              |
 | EAP     | Extensible Authentication Protocol             | Architecture            |
+| WAF     | Web Application Firewall                       | Architecture            |
+| UTM     | Unified Threat Management                      | Architecture            |
+| NGFW    | Next Generation Firewall                       | Architecture            |
+| VPN     | Virtual Private Network                        | Architecture            |
+| TLS     | Transport Layer Security                       | Architecture            |
+| IPSec   | Internet Protocol Security                     | Architecture            |
+| SD-WAN  | Software-defined Wide Area Network             | Architecture            |
+| SASE    | Secure Network Service Edge                    | Architecture            |
+
+
+
+
 
 ## How to Use This Repository
 - **Study Tool**: Use this list to review acronyms for the Security+ exam.
