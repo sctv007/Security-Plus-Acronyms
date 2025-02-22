@@ -16,6 +16,7 @@ This repository contains a list of key acronyms for the **CompTIA Security+ SY0-
 | SQLi    | SQL Injection                                  | Threats                 |
 | IDS     | Intrusion Detection System                     | Operations              |
 | IPS     | Intrusion Prevention System                    | Operations              |
+| EAP     | Extensible Authentication Protocol             | Architecture            |
 
 ## How to Use This Repository
 - **Study Tool**: Use this list to review acronyms for the Security+ exam.
