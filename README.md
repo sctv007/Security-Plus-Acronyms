@@ -15,6 +15,7 @@ This repository contains a list of key acronyms for the **CompTIA Security+ SY0-
 | GDPR    | General Data Protection Regulation             | Compliance              |
 | SQLi    | SQL Injection                                  | Threats                 |
 | IDS     | Intrusion Detection System                     | Operations              |
+| IPS     | Intrusion Prevention System                    | Operations              |
 
 ## How to Use This Repository
 - **Study Tool**: Use this list to review acronyms for the Security+ exam.
