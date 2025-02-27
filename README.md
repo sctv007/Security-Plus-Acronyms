@@ -28,6 +28,10 @@ This repository contains a list of key acronyms for the **CompTIA Security+ SY0-
 | ICS     | Industrial Control System                      | Architecture            |
 | SCADA   | Supervisory Control and Data Acquisition       | Architecture            |
 |TLS/SSL  | Transport Layer Security/Secure Socket Layers  | Architecture            |
+|CVE      | Common Vulnerabilities and Exposures           | Operations              |
+|SCAP     | Security Content Automation Protocol           | Operations              |
+|CVSS     | Common Vulnerability Scoring System            | Operations              |
+
 
 
 
