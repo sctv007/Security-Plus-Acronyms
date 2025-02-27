@@ -25,7 +25,9 @@ This repository contains a list of key acronyms for the **CompTIA Security+ SY0-
 | IPSec   | Internet Protocol Security                     | Architecture            |
 | SD-WAN  | Software-defined Wide Area Network             | Architecture            |
 | SASE    | Secure Network Service Edge                    | Architecture            |
-
+| ICS     | Industrial Control System                      | Architecture            |
+| SCADA   | Supervisory Control and Data Acquisition       | Architecture            |
+|TLS/SSL  | Transport Layer Security/Secure Socket Layers  | Architecture            |
 
 
 
