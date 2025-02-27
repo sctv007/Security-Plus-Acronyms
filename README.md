@@ -31,8 +31,9 @@ This repository contains a list of key acronyms for the **CompTIA Security+ SY0-
 | CVE     | Common Vulnerabilities and Exposures           | Operations              |
 | SCAP    | Security Content Automation Protocol           | Operations              |
 | CVSS    | Common Vulnerability Scoring System            | Operations              |
-| SOAR    |Security Orchestration, Automation and Response | Operations              |
-| API     |Application Programming Interface               | Operations              |
+| SOAR    | Security Orchestration, Automation and Response| Operations              |
+| API     | Application Programming Interface              | Operations              |
+| MOU     | Memorandum of Understanding                    | Program Management      |
 
 
 
