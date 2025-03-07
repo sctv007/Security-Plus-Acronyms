@@ -37,6 +37,8 @@ This repository contains a list of key acronyms for the **CompTIA Security+ SY0-
 | SDLC    | Software Developmetnt Lifecycle                | Program Management      |
 | SDLC    | Software Developmetnt Lifecycle                | Program Management      |
 | PCI DSS | Payment Card Industry Data Security Standard   | Program Management      |
+| ISO     | International Standards Organization           | Program Management      |
+
 
 
 
