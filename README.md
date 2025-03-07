@@ -34,6 +34,10 @@ This repository contains a list of key acronyms for the **CompTIA Security+ SY0-
 | SOAR    | Security Orchestration, Automation and Response| Operations              |
 | API     | Application Programming Interface              | Operations              |
 | MOU     | Memorandum of Understanding                    | Program Management      |
+| SDLC    | Software Developmetnt Lifecycle                | Program Management      |
+| SDLC    | Software Developmetnt Lifecycle                | Program Management      |
+| PCI DSS | Payment Card Industry Data Security Standard   | Program Management      |
+
 
 
 
