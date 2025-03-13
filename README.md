@@ -35,9 +35,20 @@ This repository contains a list of key acronyms for the **CompTIA Security+ SY0-
 | API     | Application Programming Interface              | Operations              |
 | MOU     | Memorandum of Understanding                    | Program Management      |
 | SDLC    | Software Developmetnt Lifecycle                | Program Management      |
-| SDLC    | Software Developmetnt Lifecycle                | Program Management      |
 | PCI DSS | Payment Card Industry Data Security Standard   | Program Management      |
 | ISO     | International Standards Organization           | Program Management      |
+| CIRT    | Critical Incident Response Team                | Operations              |
+| CMS     | Content Management Systems                     |                         |
+| COOP    | Continuity of Operation Planning               | Architecture            |
+| CMS     | Content Management Systems                     |                         |
+| COPE    | Corporate Owned, Personally Enabled            | Operations              |
+| CP      | Contingency Planning                           | Operations              |
+| CRC     | Cyclical Redundancy Checks                     | Threats                 |
+
+
+
+
+
 
 
 
