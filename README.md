@@ -4,10 +4,10 @@ This repository contains a list of key acronyms for the **CompTIA Security+ SY0-
 
 ## Table of Acronyms
 
-| Acronym | Definition                                     | Domain Name             |Domain Number |
+| Acronym | Definition                                     | Domain Name             |
 |---------|------------------------------------------------|-------------------------|
-| CIA     | Confidentiality, Integrity, Availability       | General Security        |1.0
-| AAA     | Authentication, Authorization, Accounting      | General Security        |1.0
+| CIA     | Confidentiality, Integrity, Availability       | General Security        |
+| AAA     | Authentication, Authorization, Accounting      | General Security        |
 | DDoS    | Distributed Denial of Service                  | Threats                 |
 | PKI     | Public Key Infrastructure                      | Architecture            |
 | SIEM    | Security Information and Event Management      | Operations              |
@@ -45,8 +45,8 @@ This repository contains a list of key acronyms for the **CompTIA Security+ SY0-
 | CP      | Contingency Planning                           | Operations              |
 | CRC     | Cyclical Redundancy Checks                     | Threats                 |
 | ARO     | Annualized Rate of Occurance                   | Program Management      |
-| DLP     | Data Loss Prevention                           | Operations              | 4.0
-| CAPTCHA | Completely Automated Public Turing Test To Tell Computers and Humans Apart  Threats| 2.0 
+| DLP     | Data Loss Prevention                           | Operations              |
+| CAPTCHA | Completely Automated Public Turing Test To Tell Computers and Humans Apart  Threats|
 
 
 
