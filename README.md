@@ -46,7 +46,7 @@ This repository contains a list of key acronyms for the **CompTIA Security+ SY0-
 | CRC     | Cyclical Redundancy Checks                     | Threats                 |
 | ARO     | Annualized Rate of Occurance                   | Program Management      |
 | DLP     | Data Loss Prevention                           | Operations              |
-| CAPTCHA | Completely Automated Public Turing Test To Tell Computers and Humans Apart  Threats|
+| CAPTCHA | Completely Automated Public Turing Test To Tell Computers and Humans Apart | Threats|
 
 
 
