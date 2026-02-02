@@ -34,19 +34,38 @@ This repository contains a list of key acronyms for the **CompTIA Security+ SY0-
 | SOAR    | Security Orchestration, Automation and Response| Operations              |
 | API     | Application Programming Interface              | Operations              |
 | MOU     | Memorandum of Understanding                    | Program Management      |
-| SDLC    | Software Developmetnt Lifecycle                | Program Management      |
+| SDLC    | Software Development Lifecycle                 | Program Management      |
 | PCI DSS | Payment Card Industry Data Security Standard   | Program Management      |
 | ISO     | International Standards Organization           | Program Management      |
 | CIRT    | Critical Incident Response Team                | Operations              |
 | CMS     | Content Management Systems                     |                         |
 | COOP    | Continuity of Operation Planning               | Architecture            |
-| CMS     | Content Management Systems                     |                         |
 | COPE    | Corporate Owned, Personally Enabled            | Operations              |
 | CP      | Contingency Planning                           | Operations              |
 | CRC     | Cyclical Redundancy Checks                     | Threats                 |
 | ARO     | Annualized Rate of Occurance                   | Program Management      |
 | DLP     | Data Loss Prevention                           | Operations              |
-| CAPTCHA | Completely Automated Public Turing Test To Tell Computers and Humans Apart | Threats|
+| CAPTCHA | Completely Automated Public Turing Test To Tell Computers and Humans Apart | Threats |
+| ACL     | Access Control List                            | Threats                 |
+| AES     | Advanced Encryption Standard                   | General Security        |
+| AES-256 | Advanced Encryption Standards 256-bit          | General Security        |
+| AH      | Authentication Header                          | Architecture            |
+| AI      | Artificial Intelligence                        | General Security        |
+| AIS     | Automated Indicator Sharing                    | Operations              |
+| ALE     | Annualized Loss Expectancy                     | Program Management      |
+| AP      | Access Point                                   | Architecture            |
+| APT     | Advanced Persistent Threat                     | Threats                 |
+| ARP     | Address Resolution Protocol                    | Architecture            |
+| ASLR    | Address Space Layout Randomization             | Threats                 |
+| ATT&CK  | Adversarial Tactics, Techniques, and Common Knowledge | Threats          |
+| AUP     | Acceptable Use Policy                          | Program Management      |
+| AV      | Antivirus                                      | Operations              |
+| BASH    | Bourne Again Shell                             | Operations              |
+| BCP     | Business Continuity Planning                   | Program Management      |
+| BGP     | Border Gateway Protocol                        | Architecture            |
+| BIA     | Business Impact Analysis                       | Program Management      |
+| BIOS    | Basic Input/Output System                      | General Security        |
+| BPA     | Business Partners Agreement                    | Program Management      |
 
 
 
