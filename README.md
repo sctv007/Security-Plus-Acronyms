@@ -66,8 +66,26 @@ This repository contains a list of key acronyms for the **CompTIA Security+ SY0-
 | BIA     | Business Impact Analysis                       | Program Management      |
 | BIOS    | Basic Input/Output System                      | General Security        |
 | BPA     | Business Partners Agreement                    | Program Management      |
-
-
+| BYOD    | Bring Your Own Device                          | Operations              |
+| CA      | Certificate Authority                          | General Security        |
+| CASB    | Cloud Access Security Broker                   | Architecture            |
+| CHAP    | Challenge Handshake Authentication Protocol    | Architecture            |
+| CSR     | Certificate Signing Request                    | General Security        |
+| CSRF    | Cross-site Request Forgery                     | Threats                 |
+| DAC     | Discretionary Access Control                   | Operations              |
+| DHCP    | Dynamic Host Configuration Protocol            | Architecture            |
+| DKIM    | DomainKeys Identified Mail                     | Operations              |
+| DMARC   | Domain Message Authentication Reporting and Conformance | Operations     |
+| DNS     | Domain Name System                             | Architecture            |
+| EDR     | Endpoint Detection and Response                | Operations              |
+| FDE     | Full Disk Encryption                           | General Security        |
+| HSM     | Hardware Security Module                       | General Security        |
+| IAM     | Identity and Access Management                 | Operations              |
+| IoT     | Internet of Things                             | Architecture            |
+| LDAP    | Lightweight Directory Access Protocol          | Operations              |
+| MFA     | Multifactor Authentication                     | Operations              |
+| NAC     | Network Access Control                         | Operations              |
+| RADIUS  | Remote Authentication Dial-in User Service     | Operations              |
 
 
 
