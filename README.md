@@ -86,8 +86,26 @@ This repository contains a list of key acronyms for the **CompTIA Security+ SY0-
 | MFA     | Multifactor Authentication                     | Operations              |
 | NAC     | Network Access Control                         | Operations              |
 | RADIUS  | Remote Authentication Dial-in User Service     | Operations              |
-
-
+| BPDU    | Bridge Protocol Data Unit                      | Architecture            |
+| CRL     | Certificate Revocation List                    | General Security        |
+| CSP     | Cloud Service Provider                         | Architecture            |
+| CYOD    | Choose Your Own Device                         | Operations              |
+| DES     | Digital Encryption Standard                    | General Security        |
+| DoS     | Denial of Service                              | Threats                 |
+| DRP     | Disaster Recovery Plan                         | Program Management      |
+| ECC     | Elliptic Curve Cryptography                    | General Security        |
+| FTP     | File Transfer Protocol                         | Architecture            |
+| HIDS    | Host-based Intrusion Detection System          | Operations              |
+| HIPS    | Host-based Intrusion Prevention System         | Operations              |
+| HOTP    | HMAC-based One-time Password                   | Operations              |
+| HTTP    | Hypertext Transfer Protocol                    | Architecture            |
+| HTTPS   | Hypertext Transfer Protocol Secure             | Architecture            |
+| ICMP    | Internet Control Message Protocol              | Architecture            |
+| MDM     | Mobile Device Management                       | Operations              |
+| MTBF    | Mean Time Between Failures                     | Program Management      |
+| MTTR    | Mean Time to Recover                           | Program Management      |
+| NDA     | Non-disclosure Agreement                       | Program Management      |
+| NIST    | National Institute of Standards & Technology   | Program Management      |
 
 
 
