@@ -106,8 +106,26 @@ This repository contains a list of key acronyms for the **CompTIA Security+ SY0-
 | MTTR    | Mean Time to Recover                           | Program Management      |
 | NDA     | Non-disclosure Agreement                       | Program Management      |
 | NIST    | National Institute of Standards & Technology   | Program Management      |
-
-
+| OAUTH   | Open Authorization                             | Operations              |
+| OCSP    | Online Certificate Status Protocol             | General Security        |
+| OSINT   | Open-source Intelligence                       | Operations              |
+| PAM     | Privileged Access Management                   | Operations              |
+| PHI     | Personal Health Information                    | Compliance              |
+| PII     | Personally Identifiable Information            | Compliance              |
+| RBAC    | Role-based Access Control                      | Operations              |
+| RPO     | Recovery Point Objective                       | Program Management      |
+| RSA     | Rivest, Shamir, & Adleman                      | General Security        |
+| SAML    | Security Assertions Markup Language            | Operations              |
+| SLA     | Service-level Agreement                        | Program Management      |
+| SLE     | Single Loss Expectancy                         | Program Management      |
+| SNMP    | Simple Network Management Protocol             | Operations              |
+| SOC     | Security Operations Center                     | Operations              |
+| SPF     | Sender Policy Framework                        | Operations              |
+| SSH     | Secure Shell                                   | Architecture            |
+| SSO     | Single Sign-on                                 | Operations              |
+| TOTP    | Time-based One-time Password                   | Operations              |
+| TPM     | Trusted Platform Module                        | General Security        |
+| XDR     | Extended Detection and Response                | Operations              |
 
 
 
