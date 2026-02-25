@@ -126,6 +126,26 @@ This repository contains a list of key acronyms for the **CompTIA Security+ SY0-
 | TOTP    | Time-based One-time Password                   | Operations              |
 | TPM     | Trusted Platform Module                        | General Security        |
 | XDR     | Extended Detection and Response                | Operations              |
+| NAT     | Network Address Translation                    | Architecture            |
+| NFC     | Near-field Communication                       | Architecture            |
+| OT      | Operational Technology                         | Architecture            |
+| PAP     | Password Authentication Protocol               | Architecture            |
+| PEM     | Privacy Enhanced Mail                          | General Security        |
+| PGP     | Pretty Good Privacy                            | General Security        |
+| PKCS    | Public Key Cryptography Standards              | General Security        |
+| RA      | Registration Authority                         | General Security        |
+| RDP     | Remote Desktop Protocol                        | Architecture            |
+| RFID    | Radio Frequency Identification                 | Architecture            |
+| STIX    | Structured Threat Information eXpression       | Operations              |
+| TTP     | Tactics, Techniques, and Procedures            | Threats                 |
+| UEFI    | Unified Extensible Firmware Interface          | General Security        |
+| VLAN    | Virtual Local Area Network                     | Architecture            |
+| VM      | Virtual Machine                                | Architecture            |
+| VoIP    | Voice over Internet Protocol                   | Architecture            |
+| WPA     | Wi-Fi Protected Access                         | Architecture            |
+| WPS     | Wi-Fi Protected Setup                          | Architecture            |
+| XSS     | Cross-site Scripting                           | Threats                 |
+| ZTNA    | Zero Trust Network Access                      | Architecture            |
 
 
 
